@@ -1,0 +1,32 @@
+﻿# Python/Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+
+# Local metadata
+*.db
+
+# Datasets (local only)
+datasets/**
+!datasets/.gitkeep
+
+# Archived/non-portfolio course materials
+materials/**
+!materials/.gitkeep
+
+# Large media and binaries
+*.mp4
+*.m4a
+*.pptx
+*.zip
