@@ -9,10 +9,10 @@ This folder contains reinforcement learning coursework, reading notes, and proje
 - `5/` - Team proposal files
 - `8/` - Assignment 3 notebook and supporting export files
 - `9/` - Paper review and deep-reading deliverables
-- `code/` - Reusable notebooks and experiment files that support the coursework
-- top-level PDFs - course syllabus and reference texts used during the class
+- top-level PDFs - selected reference texts and the course syllabus
 
 ## Notes
 
 - Raw training data, notebook checkpoint files, and local database artifacts are intentionally left out of version control.
+- Large reference books and archive-style files are trimmed down so the repository stays easier to clone and browse.
 - The folder is organized to make the final submissions easy to browse from GitHub while keeping the repository reasonably clean.
