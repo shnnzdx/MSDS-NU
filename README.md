@@ -1,25 +1,29 @@
-# MSDS-NU: Machine Learning & Deep Learning Coursework Portfolio
+# MSDS-NU Coursework Portfolio
 
-## Overview
+This repository collects selected coursework, notebooks, scripts, and final deliverables from my Master of Science in Data Science studies at Northwestern University.
 
-This repository collects my machine learning, deep learning, and AI-related coursework from the Master of Science in Data Science program at Northwestern University.
+The goal is to keep the work organized as a clean GitHub portfolio that is easy to browse, easy to clone, and easy to understand without needing extra context.
 
-The purpose of this repository is to organize course projects, coding assignments, notebooks, and selected submissions in one place. It also serves as a technical portfolio showing my learning progress across data science, machine learning, neural networks, model evaluation, and applied AI topics.
-
-This repository is not a production software system. It mainly documents academic work, experiments, and project-based learning completed during my MSDS studies.
-
-## Repository Structure
-
-The repository is organized by course number, topic, or project area. Individual folders may include notebooks, scripts, datasets, assignment submissions, and supporting notes.
-
-A typical folder may look like this:
+## Repository Layout
 
 ```text
-course-or-project-folder/
-├── notebooks/       # Jupyter notebooks and experiments
-├── scripts/         # Python scripts or reusable code
-├── datasets/        # Sample or course-related datasets, if allowed
-├── submissions/     # Final reports, exports, or assignment deliverables
-├── materials/       # Supporting notes or non-code materials
-├── README.md        # Folder-level explanation
-└── CLEANUP_NOTES.md # Optional notes about file organization
+.
+|-- 435/      CIS 435 coursework and portfolio materials
+|-- 458/      MSDS 458 deep learning and model experimentation work
+`-- README.md Top-level overview
+```
+
+## What You Will Find
+
+- `435/` contains notebooks, scripts, submissions, and supporting course materials for CIS 435.
+- `458/` contains assignment work, experiments, helper utilities, and supporting reference material for MSDS 458.
+
+## Notes
+
+- This repository is intended as an academic portfolio, not a production application.
+- Large reference files and generated deliverables are kept where they help explain the work.
+- Temporary notebook checkpoints and OS clutter are ignored by the repository's `.gitignore`.
+
+## Browsing the Work
+
+Start with the folder-level `README.md` files inside each course directory. They explain the contents of that section and point to the most relevant notebooks and deliverables.
