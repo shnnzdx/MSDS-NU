@@ -1,0 +1,16 @@
+# Notebook and Python noise
+**/.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor backups
+*.swp
+*.swo
+*.tmp
+*.bak
