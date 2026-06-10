@@ -10,6 +10,7 @@ The goal is to keep the work organized as a clean GitHub portfolio that is easy 
 .
 |-- 435/      CIS 435 coursework and portfolio materials
 |-- 458/      MSDS 458 deep learning and model experimentation work
+|-- 464/      MSDS 464 reinforcement learning coursework and experiments
 `-- README.md Top-level overview
 ```
 
@@ -17,6 +18,7 @@ The goal is to keep the work organized as a clean GitHub portfolio that is easy 
 
 - `435/` contains notebooks, scripts, submissions, and supporting course materials for CIS 435.
 - `458/` contains assignment work, experiments, helper utilities, and supporting reference material for MSDS 458.
+- `464/` contains reinforcement learning coursework, paper reviews, notebooks, and related deliverables for MSDS 464.
 
 ## Notes
 
